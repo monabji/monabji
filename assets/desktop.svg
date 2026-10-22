@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="800" viewBox="0 0 1040 800" role="img" aria-labelledby="title desc">
+<title id="title">Manav's Windows 7 inspired GitHub desktop</title>
+<desc id="desc">An Aero blue desktop with a Welcome window and an Explorer window featuring Cookie Curtain, Manu, Sork, and Pocket Town.</desc>
+<defs>
+<linearGradient id="desktop" x2="1" y2="1"><stop stop-color="#063469"/><stop offset=".43" stop-color="#078bce"/><stop offset="1" stop-color="#072e65"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#96f7ff" stop-opacity=".75"/><stop offset="1" stop-color="#3cd2f8" stop-opacity="0"/></radialGradient>
+<linearGradient id="glass" x2="0" y2="1"><stop stop-color="#e5f7ff" stop-opacity=".95"/><stop offset=".45" stop-color="#88bedf" stop-opacity=".92"/><stop offset="1" stop-color="#d1effc" stop-opacity=".96"/></linearGradient>
+<linearGradient id="red" x2="0" y2="1"><stop stop-color="#efa79a"/><stop offset=".5" stop-color="#bd4034"/><stop offset="1" stop-color="#dc7663"/></linearGradient>
+<linearGradient id="taskbar" x2="0" y2="1"><stop stop-color="#72b7df" stop-opacity=".9"/><stop offset=".12" stop-color="#154c7a" stop-opacity=".96"/><stop offset="1" stop-color="#062b53"/></linearGradient>
+<linearGradient id="folder" x2="0" y2="1"><stop stop-color="#fff0a2"/><stop offset="1" stop-color="#eab13f"/></linearGradient>
+<radialGradient id="orb" cx=".45" cy=".25"><stop stop-color="#bdf4ff"/><stop offset=".45" stop-color="#398ec1"/><stop offset="1" stop-color="#033c70"/></radialGradient>
+<filter id="shadow" x="-15%" y="-15%" width="135%" height="145%"><feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#001d3c" flood-opacity=".42"/></filter>
+</defs>
+<rect width="1040" height="800" rx="14" fill="url(#desktop)"/>
+<ellipse cx="790" cy="320" rx="560" ry="430" fill="url(#glow)"/>
+<g fill="none" stroke="#c6f8ff" opacity=".19"><path d="M-90 710 Q550 755 1060 65" stroke-width="3"/><path d="M-30 745 Q570 745 1080 125"/><path d="M600 0 Q540 300 1050 640" stroke-width="2"/></g>
+<path d="M730 0 L1040 0 L1040 800 L980 800Z" fill="#b6f4ff" opacity=".035"/>
+
+<text x="44" y="49" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#e0f7ff">monabji / personal desktop</text>
+<text x="995" text-anchor="end" y="49" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="12" font-weight="normal" fill="#dcf6ff">AERO EDITION  /  07</text>
+<g filter="url(#shadow)"><rect x="42" y="77" width="956" height="213" rx="8" fill="url(#glass)" stroke="#e9fbff"/><rect x="49" y="111" width="942" height="172" fill="#f5fbff" stroke="#5c8da9"/></g>
+<text x="58" y="99" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#17394f">Welcome to my desktop</text>
+<rect x="927" y="78" width="61" height="23" rx="3" fill="url(#red)" stroke="#90594c"/>
+<text x="951" y="95" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="white">×</text>
+<g transform="translate(77 143) rotate(-8 44 42)"><path d="M0 0H39V36H0Z" fill="#ef7344"/><path d="M45 0H84V36H45Z" fill="#89bb35"/><path d="M0 42H39V78H0Z" fill="#39a8e1"/><path d="M45 42H84V78H45Z" fill="#f1ca43"/></g>
+<text x="192" y="151" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="31" font-weight="bold" fill="#153f64">Hello, I’m Manav.</text>
+<text x="193" y="181" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" fill="#307da8">making stuff</text>
+<text x="193" y="213" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="15" font-weight="normal" fill="#435e72">A little curiosity. A few open windows. Something new to build.</text>
+<text x="193" y="253" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="bold" fill="#136fa2">@monabji</text>
+<text x="313" y="253" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#536a7a">Bengaluru</text>
+<text x="870" y="253" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#346642">Ready.</text>
+<circle cx="856" cy="248" r="4" fill="#69a749"/>
+<g filter="url(#shadow)"><rect x="42" y="315" width="956" height="407" rx="8" fill="url(#glass)" stroke="#e9fbff"/><rect x="49" y="391" width="942" height="297" fill="white" stroke="#5b8da9"/></g>
+<g transform="translate(57 322) scale(0.34)"><path d="M0 7 Q0 3 4 3 H18 L23 9 H47 Q51 9 51 13 V38 Q51 42 47 42 H4 Q0 42 0 38Z" fill="#d59c35" stroke="#9c6a19"/><path d="M1 15 H53 L48 42 H1Z" fill="url(#folder)" stroke="#c38c26"/><path d="M4 18 H49" stroke="#fff4bf" stroke-width="2"/></g>
+<text x="82" y="337" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#17394f">Projects — Windows Explorer</text>
+<rect x="927" y="316" width="61" height="23" rx="3" fill="url(#red)" stroke="#90594c"/>
+<text x="951" y="333" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="white">×</text>
+<text x="875" y="333" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="16" font-weight="normal" fill="#17394f">−</text>
+<text x="906" y="333" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="14" font-weight="normal" fill="#17394f">□</text>
+<circle cx="69" cy="367" r="12" fill="#ecf7ff" stroke="#648dab"/>
+<text x="61" y="372" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="18" font-weight="normal" fill="#2b6e9c">←</text>
+<rect x="96" y="354" width="635" height="26" rx="3" fill="#f5fbfe" stroke="#81a8bf"/>
+<text x="108" y="372" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#17394f">Computer  ›  monabji  ›  Projects</text>
+<rect x="744" y="354" width="234" height="26" rx="3" fill="#f5fbfe" stroke="#81a8bf"/>
+<text x="757" y="372" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#718491">Search Projects</text>
+<rect x="50" y="392" width="183" height="295" fill="#f0f5fa"/><path d="M233 392V688" stroke="#d5e0ea"/>
+<text x="69" y="421" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="10" font-weight="bold" fill="#738492">FAVORITES</text>
+<text x="73" y="451" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="14" font-weight="normal" fill="#17394f">☆  Overview</text>
+<rect x="57" y="463" width="168" height="31" rx="3" fill="#d9eafa" stroke="#b3d0e7"/>
+<text x="73" y="483" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="14" font-weight="bold" fill="#164b73">▣  Projects</text>
+<text x="73" y="520" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="14" font-weight="normal" fill="#17394f">↗  Repositories</text>
+<text x="69" y="566" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="10" font-weight="bold" fill="#738492">THIS COMPUTER</text>
+<text x="73" y="595" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#526d81">JavaScript</text>
+<text x="73" y="620" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#526d81">Python</text>
+<text x="73" y="645" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#526d81">TypeScript</text>
+<text x="258" y="420" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="16" font-weight="normal" fill="#2a536c">Things I’ve been making</text>
+<rect x="255" y="438" width="351" height="107" rx="4" fill="#f8fbfe" stroke="#d9e6ef"/>
+<g transform="translate(268 455) scale(0.69)"><path d="M0 7 Q0 3 4 3 H18 L23 9 H47 Q51 9 51 13 V38 Q51 42 47 42 H4 Q0 42 0 38Z" fill="#d59c35" stroke="#9c6a19"/><path d="M1 15 H53 L48 42 H1Z" fill="url(#folder)" stroke="#c38c26"/><path d="M4 18 H49" stroke="#fff4bf" stroke-width="2"/></g>
+<text x="319" y="466" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="16" font-weight="bold" fill="#165b8a">cookie-curtain</text>
+<text x="319" y="487" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">Privacy-first Chromium extension</text>
+<text x="319" y="505" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">that rejects cookie pop-ups.</text>
+<text x="319" y="529" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="9" font-weight="bold" fill="#657e90">JAVASCRIPT</text>
+<rect x="622" y="438" width="351" height="107" rx="4" fill="#f8fbfe" stroke="#d9e6ef"/>
+<g transform="translate(635 455) scale(0.69)"><path d="M0 7 Q0 3 4 3 H18 L23 9 H47 Q51 9 51 13 V38 Q51 42 47 42 H4 Q0 42 0 38Z" fill="#d59c35" stroke="#9c6a19"/><path d="M1 15 H53 L48 42 H1Z" fill="url(#folder)" stroke="#c38c26"/><path d="M4 18 H49" stroke="#fff4bf" stroke-width="2"/></g>
+<text x="686" y="466" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="16" font-weight="bold" fill="#165b8a">Manu</text>
+<text x="686" y="487" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">Protein stability prediction.</text>
+<text x="686" y="505" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">CodeCortex 3.0 · 2nd place.</text>
+<text x="686" y="529" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="9" font-weight="bold" fill="#657e90">PYTHON</text>
+<rect x="255" y="557" width="351" height="107" rx="4" fill="#f8fbfe" stroke="#d9e6ef"/>
+<g transform="translate(268 574) scale(0.69)"><path d="M0 7 Q0 3 4 3 H18 L23 9 H47 Q51 9 51 13 V38 Q51 42 47 42 H4 Q0 42 0 38Z" fill="#d59c35" stroke="#9c6a19"/><path d="M1 15 H53 L48 42 H1Z" fill="url(#folder)" stroke="#c38c26"/><path d="M4 18 H49" stroke="#fff4bf" stroke-width="2"/></g>
+<text x="319" y="585" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="16" font-weight="bold" fill="#165b8a">Sork</text>
+<text x="319" y="606" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">Barcode → food supply chain</text>
+<text x="319" y="624" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">scenario dashboard.</text>
+<text x="319" y="648" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="9" font-weight="bold" fill="#657e90">TYPESCRIPT</text>
+<rect x="622" y="557" width="351" height="107" rx="4" fill="#f8fbfe" stroke="#d9e6ef"/>
+<g transform="translate(635 574) scale(0.69)"><path d="M0 7 Q0 3 4 3 H18 L23 9 H47 Q51 9 51 13 V38 Q51 42 47 42 H4 Q0 42 0 38Z" fill="#d59c35" stroke="#9c6a19"/><path d="M1 15 H53 L48 42 H1Z" fill="url(#folder)" stroke="#c38c26"/><path d="M4 18 H49" stroke="#fff4bf" stroke-width="2"/></g>
+<text x="686" y="585" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="16" font-weight="bold" fill="#165b8a">Pocket-town</text>
+<text x="686" y="606" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">A financial learning game</text>
+<text x="686" y="624" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#476071">made for kids.</text>
+<text x="686" y="648" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="9" font-weight="bold" fill="#657e90">HACKATHON PROJECT</text>
+<text x="61" y="708" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#365e77">4 selected projects</text>
+<text x="972" text-anchor="end" y="708" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#365e77">Explore the links below ↓</text>
+<path d="M0 749H1040V786Q1040 800 1026 800H14Q0 800 0 786Z" fill="url(#taskbar)"/><path d="M0 749H1040" stroke="#c2e6ff" stroke-opacity=".7"/><circle cx="42" cy="773" r="24" fill="url(#orb)" stroke="#91d3f4"/>
+<g transform="translate(29 761)"><path d="M0 1H11V12H0Z" fill="#f48a56"/><path d="M14 1H25V12H14Z" fill="#b2d958"/><path d="M0 15H11V26H0Z" fill="#64c7f4"/><path d="M14 15H25V26H14Z" fill="#ffdb66"/></g>
+<rect x="85" y="755" width="191" height="39" rx="4" fill="#abdfff" fill-opacity=".18" stroke="#c4e8ff" stroke-opacity=".5"/>
+<g transform="translate(97 758) scale(0.63)"><path d="M0 7 Q0 3 4 3 H18 L23 9 H47 Q51 9 51 13 V38 Q51 42 47 42 H4 Q0 42 0 38Z" fill="#d59c35" stroke="#9c6a19"/><path d="M1 15 H53 L48 42 H1Z" fill="url(#folder)" stroke="#c38c26"/><path d="M4 18 H49" stroke="#fff4bf" stroke-width="2"/></g>
+<text x="140" y="780" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="13" font-weight="normal" fill="#effaff">Projects</text>
+<text x="303" y="780" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#d6efff">⌘</text>
+<text x="344" y="779" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#d0ebfc">Make something worth opening.</text>
+<text x="984" text-anchor="end" y="773" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="12" font-weight="normal" fill="#f4fcff">GitHub desktop</text>
+<text x="984" text-anchor="end" y="789" font-family="Segoe UI, Tahoma, DejaVu Sans, sans-serif" font-size="10" font-weight="normal" fill="#d3e9fb">Windows 7 inspired</text>
+<path d="M1025 750V799" stroke="#a1cced" stroke-opacity=".5"/>
+</svg>
