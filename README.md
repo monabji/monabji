@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/monafetch.svg" width="100%" alt="Manav / monabji — green ASCII smiley avatar beside my developer profile. Based in Bengaluru, making stuff with JavaScript, Python, and TypeScript." />
+  <img src="./assets/monafetch-avatar.svg" width="100%" alt="Manav / monabji — green ASCII smiley avatar beside my developer profile. Based in Bengaluru, making stuff with JavaScript, Python, and TypeScript." />
 </p>
 
 <p align="center">
