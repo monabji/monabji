@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" role="img" aria-labelledby="title desc">
 <title id="title">monabji fetch — Manav's developer profile</title>
 <desc id="desc">A green ASCII smiley avatar beside Hardware and Software specifications for a Legion Pro 5 laptop running Omarchy.</desc>
-<rect width="1000" height="540" rx="12" fill="#141a22"/>
+<rect width="1000" height="540" rx="12" fill="#101b16"/>
 <g font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="15" xml:space="preserve">
 
-<text x="30" y="34" fill="#70e1e8" font-size="15">~</text>
-<text x="53" y="34" fill="#9da9bb" font-size="15">$</text>
-<text x="75" y="34" fill="#d7dfed" font-size="15">monafetch</text>
-<text x="970" y="34" fill="#cbd5e1" font-size="12"></text>
+<text x="30" y="34" fill="#67dba1" font-size="15">~</text>
+<text x="53" y="34" fill="#789e8a" font-size="15">$</text>
+<text x="75" y="34" fill="#c2e5d2" font-size="15">monabfetch</text>
+<text x="970" y="34" fill="#b5d8c6" font-size="12"></text>
 <text x="158.7" y="134.0" fill="#173922" font-size="11">.</text>
 <text x="165.8" y="134.0" fill="#173922" font-size="11">.</text>
 <text x="172.9" y="134.0" fill="#173922" font-size="11">.</text>
@@ -1433,50 +1433,50 @@
 <text x="243.89999999999998" y="441.1" fill="#173922" font-size="11">.</text>
 <text x="251.0" y="441.1" fill="#173922" font-size="11">.</text>
 <text x="110" y="478" fill="#83b4a0" font-size="12">[ m o n a b j i ]</text>
-<text x="416" y="65" fill="#70e1e8" font-size="13">┌─ Hardware ──────────────────────────────────────────</text>
-<text x="416" y="94" fill="#435366" font-size="12">│</text>
-<text x="434" y="94" fill="#70e1e8" font-size="12">PC</text>
-<text x="522" y="94" fill="#d5dfed" font-size="12">83F2 (Legion Pro 5 16AFR10)</text>
-<text x="416" y="118" fill="#435366" font-size="12">│</text>
-<text x="434" y="118" fill="#7ac3ff" font-size="12">CPU</text>
-<text x="522" y="118" fill="#d5dfed" font-size="12">AMD Ryzen 9 9955HX (32) @ 5.46 GHz</text>
-<text x="416" y="142" fill="#435366" font-size="12">│</text>
-<text x="434" y="142" fill="#a79bff" font-size="12">GPU</text>
-<text x="522" y="142" fill="#d5dfed" font-size="12">GeForce RTX 5070 Max-Q / Mobile</text>
-<text x="416" y="166" fill="#435366" font-size="12">│</text>
-<text x="434" y="166" fill="#d3a1ff" font-size="12">GPU</text>
-<text x="522" y="166" fill="#d5dfed" font-size="12">Radeon Graphics</text>
-<text x="416" y="190" fill="#435366" font-size="12">│</text>
-<text x="434" y="190" fill="#f3a6cf" font-size="12">Display</text>
-<text x="522" y="190" fill="#d5dfed" font-size="12">2560x1600 @ 1.59x in 16&quot;, 165 Hz [Built-in]</text>
-<text x="416" y="214" fill="#435366" font-size="12">│</text>
-<text x="434" y="214" fill="#f6ba91" font-size="12">Disk</text>
-<text x="522" y="214" fill="#d5dfed" font-size="12">87.90 GiB / 241.52 GiB (36%) - btrfs</text>
-<text x="416" y="238" fill="#435366" font-size="12">│</text>
-<text x="434" y="238" fill="#70e1e8" font-size="12">Memory</text>
-<text x="522" y="238" fill="#d5dfed" font-size="12">20.21 GiB / 30.61 GiB (66%)</text>
-<text x="416" y="262" fill="#435366" font-size="12">│</text>
-<text x="434" y="262" fill="#7ac3ff" font-size="12">Swap</text>
-<text x="522" y="262" fill="#d5dfed" font-size="12">0 B / 61.22 GiB (0%)</text>
-<text x="416" y="284" fill="#435366" font-size="13">└───────────────────────────────────────────────────────</text>
-<text x="416" y="330" fill="#c3a4ff" font-size="13">┌─ Software ──────────────────────────────────────────</text>
-<text x="416" y="359" fill="#435366" font-size="12">│</text>
-<text x="434" y="359" fill="#70e1e8" font-size="12">OS</text>
-<text x="522" y="359" fill="#d5dfed" font-size="12">Omarchy 4.0.4-1</text>
-<text x="416" y="383" fill="#435366" font-size="12">│</text>
-<text x="434" y="383" fill="#7ac3ff" font-size="12">Release</text>
-<text x="522" y="383" fill="#d5dfed" font-size="12">stable</text>
-<text x="416" y="407" fill="#435366" font-size="12">│</text>
-<text x="434" y="407" fill="#a79bff" font-size="12">Kernel</text>
-<text x="522" y="407" fill="#d5dfed" font-size="12">Linux 7.2.3-arch1-3</text>
-<text x="416" y="431" fill="#435366" font-size="12">│</text>
-<text x="434" y="431" fill="#d3a1ff" font-size="12">WM</text>
-<text x="522" y="431" fill="#d5dfed" font-size="12">Hyprland 0.56.2 (Wayland)</text>
-<text x="416" y="455" fill="#435366" font-size="12">│</text>
-<text x="434" y="455" fill="#f3a6cf" font-size="12">Terminal</text>
-<text x="522" y="455" fill="#d5dfed" font-size="12">ghostty 1.3.1-arch2</text>
-<text x="416" y="479" fill="#435366" font-size="12">│</text>
-<text x="434" y="479" fill="#f6ba91" font-size="12">Packages</text>
-<text x="522" y="479" fill="#d5dfed" font-size="12">8 (flatpak-user), 1051 (pacman)</text>
-<text x="416" y="506" fill="#435366" font-size="13">└───────────────────────────────────────────────────────</text>
+<text x="416" y="65" fill="#67dba1" font-size="13">┌─ Hardware ──────────────────────────────────────────</text>
+<text x="416" y="94" fill="#325440" font-size="12">│</text>
+<text x="434" y="94" fill="#67dba1" font-size="12">PC</text>
+<text x="522" y="94" fill="#bfdbcb" font-size="12">83F2 (Legion Pro 5 16AFR10)</text>
+<text x="416" y="118" fill="#325440" font-size="12">│</text>
+<text x="434" y="118" fill="#8bd9b2" font-size="12">CPU</text>
+<text x="522" y="118" fill="#bfdbcb" font-size="12">AMD Ryzen 9 9955HX (32) @ 5.46 GHz</text>
+<text x="416" y="142" fill="#325440" font-size="12">│</text>
+<text x="434" y="142" fill="#64bd92" font-size="12">GPU</text>
+<text x="522" y="142" fill="#bfdbcb" font-size="12">GeForce RTX 5070 Max-Q / Mobile</text>
+<text x="416" y="166" fill="#325440" font-size="12">│</text>
+<text x="434" y="166" fill="#9cdebb" font-size="12">GPU</text>
+<text x="522" y="166" fill="#bfdbcb" font-size="12">Radeon Graphics</text>
+<text x="416" y="190" fill="#325440" font-size="12">│</text>
+<text x="434" y="190" fill="#6bcea0" font-size="12">Display</text>
+<text x="522" y="190" fill="#bfdbcb" font-size="12">2560x1600 @ 1.59x in 16&quot;, 165 Hz [Built-in]</text>
+<text x="416" y="214" fill="#325440" font-size="12">│</text>
+<text x="434" y="214" fill="#b0e5c8" font-size="12">Disk</text>
+<text x="522" y="214" fill="#bfdbcb" font-size="12">87.90 GiB / 241.52 GiB (36%) - btrfs</text>
+<text x="416" y="238" fill="#325440" font-size="12">│</text>
+<text x="434" y="238" fill="#67dba1" font-size="12">Memory</text>
+<text x="522" y="238" fill="#bfdbcb" font-size="12">20.21 GiB / 30.61 GiB (66%)</text>
+<text x="416" y="262" fill="#325440" font-size="12">│</text>
+<text x="434" y="262" fill="#8bd9b2" font-size="12">Swap</text>
+<text x="522" y="262" fill="#bfdbcb" font-size="12">0 B / 61.22 GiB (0%)</text>
+<text x="416" y="284" fill="#325440" font-size="13">└───────────────────────────────────────────────────────</text>
+<text x="416" y="330" fill="#7ad4a6" font-size="13">┌─ Software ──────────────────────────────────────────</text>
+<text x="416" y="359" fill="#325440" font-size="12">│</text>
+<text x="434" y="359" fill="#67dba1" font-size="12">OS</text>
+<text x="522" y="359" fill="#bfdbcb" font-size="12">Omarchy 4.0.4-1</text>
+<text x="416" y="383" fill="#325440" font-size="12">│</text>
+<text x="434" y="383" fill="#8bd9b2" font-size="12">Release</text>
+<text x="522" y="383" fill="#bfdbcb" font-size="12">stable</text>
+<text x="416" y="407" fill="#325440" font-size="12">│</text>
+<text x="434" y="407" fill="#64bd92" font-size="12">Kernel</text>
+<text x="522" y="407" fill="#bfdbcb" font-size="12">Linux 7.2.3-arch1-3</text>
+<text x="416" y="431" fill="#325440" font-size="12">│</text>
+<text x="434" y="431" fill="#9cdebb" font-size="12">WM</text>
+<text x="522" y="431" fill="#bfdbcb" font-size="12">Hyprland 0.56.2 (Wayland)</text>
+<text x="416" y="455" fill="#325440" font-size="12">│</text>
+<text x="434" y="455" fill="#6bcea0" font-size="12">Terminal</text>
+<text x="522" y="455" fill="#bfdbcb" font-size="12">ghostty 1.3.1-arch2</text>
+<text x="416" y="479" fill="#325440" font-size="12">│</text>
+<text x="434" y="479" fill="#b0e5c8" font-size="12">Packages</text>
+<text x="522" y="479" fill="#bfdbcb" font-size="12">8 (flatpak-user), 1051 (pacman)</text>
+<text x="416" y="506" fill="#325440" font-size="13">└───────────────────────────────────────────────────────</text>
 </g></svg>
